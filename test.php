@@ -1,5 +1,5 @@
 <?php
 
-    echo "Halo Semuanya";
-    
+    echo "Halo, selamat pagi Semuanya";
+
 ?>
